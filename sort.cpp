@@ -23,7 +23,8 @@ return a;
 }
 
 int main(){
-
+//production ready:wq
+//
 int n;
 cin>>n;
 if(n>100){
